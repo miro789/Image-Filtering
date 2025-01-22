@@ -19,12 +19,12 @@ This problem set is part of CS50's Introduction to Computer Science course [CS50
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Origin Image" width="85%"/>
+      <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Origin Image" width="90%"/>
       <br/>
       <span>Original Image</span>
     </td>
     <td align="center">
-      <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/grey.png" alt="Grey Image" width="85%"/>
+      <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/grey.png" alt="Grey Image" width="90%"/>
       <br/>
       <span>Grey Mode</span>
     </td>
@@ -36,12 +36,12 @@ This problem set is part of CS50's Introduction to Computer Science course [CS50
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Original Image" width="45%"/>
+      <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Original Image" width="90%"/>
       <br/>
       <span>Original Image</span>
     </td>
     <td align="center">
-      <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/sepia.png" alt="Sepia Image" width="45%"/>
+      <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/sepia.png" alt="Sepia Image" width="90%"/>
       <br/>
       <span>Sepia Mode</span>
     </td>
@@ -53,12 +53,12 @@ This problem set is part of CS50's Introduction to Computer Science course [CS50
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Original Image" width="70%"/>
+      <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Original Image" width="90%"/>
       <br/>
       <span>Original Image</span>
     </td>
     <td align="center">
-      <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/reflect.png" alt="Reflect Image" width="70%"/>
+      <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/reflect.png" alt="Reflect Image" width="90%"/>
         <br />
         <span>Reflect Mode</span>
     </td>
@@ -70,12 +70,12 @@ This problem set is part of CS50's Introduction to Computer Science course [CS50
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Original Image" width="60%"/>
+      <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Original Image" width="90%"/>
       <br/>
       <span>Original Image</span>
     </td>
     <td align="center">
-      <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/blur.png" alt="Blur Image" width="60%"/>
+      <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/blur.png" alt="Blur Image" width="90%"/>
         <br />
         <span>Blur Mode</span>
   </tr>
