@@ -116,4 +116,4 @@ This problem set is part of CS50's Introduction to Computer Science course [CS50
 - **Color Conversion Formulas**: Used in the sepia filter to recalculate each pixel's red, green, and blue values using weighted 
 formulas.
 
-- **Box Blur**: Box Blur: Applies a blur effect by averaging the colors of each pixel's neighboring pixels.
+- **Box Blur**: Applies a blur effect by averaging the colors of each pixel's neighboring pixels.
