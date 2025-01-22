@@ -44,6 +44,22 @@ This problem set is part of CS50's Introduction to Computer Science course [CS50
     </div>
 </div>
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Original Image" width="45%"/>
+      <br/>
+      <span>Original Image</span>
+    </td>
+    <td align="center">
+      <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/sepia.png" alt="Sepia Image" width="45%"/>
+      <br/>
+      <span>Sepia Mode</span>
+    </td>
+  </tr>
+</table>
+
+
 - **Reflect**: Reflect images horizontally, creating a mirror image effect by swapping pixels from left to right.
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
