@@ -93,7 +93,7 @@ This problem set is part of CS50's Introduction to Computer Science course [CS50
         BYTE rgbtGreen;
         BYTE rgbtRed;
     }
-RGBTRIPLE;
+    RGBTRIPLE;
 ```
 
 - **Image**: The image itself is represented as a 2D array of RGBTRIPLE structures, where each element corresponds to a pixel.
