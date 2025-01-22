@@ -33,12 +33,12 @@ This problem set is part of CS50's Introduction to Computer Science course [CS50
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
     <div style="text-align: center; margin: 10px;">
-        <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Origin Image" width="45%"/>
+        <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Origin Image" width="25%"/>
         <br />
         <span>Original Image</span>
     </div>
     <div style="text-align: center; margin: 10px;">
-        <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/sepia.png" alt="Sepia Image" width="45%"/>
+        <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/sepia.png" alt="Sepia Image" width="25%"/>
         <br />
         <span>Sepia Mode</span>
     </div>
@@ -48,12 +48,12 @@ This problem set is part of CS50's Introduction to Computer Science course [CS50
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
     <div style="text-align: center; margin: 10px;">
-        <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Origin Image" width="45%"/>
+        <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Origin Image" width="30%"/>
         <br />
         <span>Original Image</span>
     </div>
     <div style="text-align: center; margin: 10px;">
-        <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/reflect.png" alt="Reflect Image" width="45%"/>
+        <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/reflect.png" alt="Reflect Image" width="30%"/>
         <br />
         <span>Reflect Mode</span>
     </div>
@@ -64,12 +64,12 @@ This problem set is part of CS50's Introduction to Computer Science course [CS50
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
     <div style="text-align: center; margin: 10px;">
-        <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Origin Image" width="45%"/>
+        <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Origin Image" width="35%"/>
         <br />
         <span>Original Image</span>
     </div>
     <div style="text-align: center; margin: 10px;">
-        <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/blur.png" alt="Blur Image" width="45%"/>
+        <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/blur.png" alt="Blur Image" width="35%"/>
         <br />
         <span>Blur Mode</span>
     </div>
