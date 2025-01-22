@@ -16,33 +16,22 @@ This problem set is part of CS50's Introduction to Computer Science course [CS50
 ## Key Points
 - **Graysacle**: Convert color images to black and white by averaging the red, green, and blue values of each pixel.
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <div style="text-align: center; margin: 10px;">
-        <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Origin Image" width="45%"/>
-        <br />
-        <span>Original Image</span>
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/grey.png" alt="Grey Image" width="45%"/>
-        <br />
-        <span>Grey Mode</span>
-    </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Origin Image" width="85%"/>
+      <br/>
+      <span>Original Image</span>
+    </td>
+    <td align="center">
+      <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/grey.png" alt="Grey Image" width="85%"/>
+      <br/>
+      <span>Grey Mode</span>
+    </td>
+  </tr>
+</table>
 
-- **Sepia**: Convert images to a reddish-brown tone by recalculating each pixel's colors using weighted formulas for red, green, and blue. Cap values at 255 and round to the nearest integer..
-
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <div style="text-align: center; margin: 10px;">
-        <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Origin Image" width="25%"/>
-        <br />
-        <span>Original Image</span>
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/sepia.png" alt="Sepia Image" width="25%"/>
-        <br />
-        <span>Sepia Mode</span>
-    </div>
-</div>
+- **Sepia**: Convert images to a reddish-brown tone by recalculating each pixel's colors using weighted formulas for red, green, and blue. Cap values at 255 and round to the nearest integer.
 
 <table>
   <tr>
@@ -59,37 +48,38 @@ This problem set is part of CS50's Introduction to Computer Science course [CS50
   </tr>
 </table>
 
-
 - **Reflect**: Reflect images horizontally, creating a mirror image effect by swapping pixels from left to right.
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <div style="text-align: center; margin: 10px;">
-        <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Origin Image" width="30%"/>
-        <br />
-        <span>Original Image</span>
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/reflect.png" alt="Reflect Image" width="30%"/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Original Image" width="70%"/>
+      <br/>
+      <span>Original Image</span>
+    </td>
+    <td align="center">
+      <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/reflect.png" alt="Reflect Image" width="70%"/>
         <br />
         <span>Reflect Mode</span>
-    </div>
-</div>
-
+    </td>
+  </tr>
+</table>
 
 - **Blur**: Apply a box blur to soften the image by averaging the colors of neighboring pixels.
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <div style="text-align: center; margin: 10px;">
-        <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Origin Image" width="35%"/>
-        <br />
-        <span>Original Image</span>
-    </div>
-    <div style="text-align: center; margin: 10px;">
-        <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/blur.png" alt="Blur Image" width="35%"/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/miro789/Image-Filtering/blob/main/images/yard.bmp" alt="Original Image" width="60%"/>
+      <br/>
+      <span>Original Image</span>
+    </td>
+    <td align="center">
+      <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/blur.png" alt="Blur Image" width="60%"/>
         <br />
         <span>Blur Mode</span>
-    </div>
-</div>
+  </tr>
+</table>
 
 
 ## Data Structures
