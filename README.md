@@ -14,7 +14,7 @@ This problem set is part of CS50's Introduction to Computer Science course [CS50
 
 
 ## Key Points
-- **Graysacle**: Convert color images to black and white by averaging the red, green, and blue values of each pixel.
+1. **Graysacle**: Convert color images to black and white by averaging the red, green, and blue values of each pixel.
 
 <table>
   <tr>
@@ -31,7 +31,7 @@ This problem set is part of CS50's Introduction to Computer Science course [CS50
   </tr>
 </table>
 
-- **Sepia**: Convert images to a reddish-brown tone by recalculating each pixel's colors using weighted formulas for red, green, and blue. Cap values at 255 and round to the nearest integer.
+2. **Sepia**: Convert images to a reddish-brown tone by recalculating each pixel's colors using weighted formulas for red, green, and blue. Cap values at 255 and round to the nearest integer.
 
 <table>
   <tr>
@@ -48,7 +48,7 @@ This problem set is part of CS50's Introduction to Computer Science course [CS50
   </tr>
 </table>
 
-- **Reflect**: Reflect images horizontally, creating a mirror image effect by swapping pixels from left to right.
+3. **Reflect**: Reflect images horizontally, creating a mirror image effect by swapping pixels from left to right.
 
 <table>
   <tr>
@@ -65,7 +65,7 @@ This problem set is part of CS50's Introduction to Computer Science course [CS50
   </tr>
 </table>
 
-- **Blur**: Apply a box blur to soften the image by averaging the colors of neighboring pixels.
+4. **Blur**: Apply a box blur to soften the image by averaging the colors of neighboring pixels.
 
 <table>
   <tr>
