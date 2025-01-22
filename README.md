@@ -23,7 +23,7 @@ This problem set is part of CS50's Introduction to Computer Science course [CS50
         <span>Original Image</span>
     </div>
     <div style="text-align: center; margin: 10px;">
-        <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/grey.bmp" alt="Grey Image" width="45%"/>
+        <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/grey.png" alt="Grey Image" width="45%"/>
         <br />
         <span>Grey Mode</span>
     </div>
@@ -38,7 +38,7 @@ This problem set is part of CS50's Introduction to Computer Science course [CS50
         <span>Original Image</span>
     </div>
     <div style="text-align: center; margin: 10px;">
-        <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/sepia.bmp" alt="Sepia Image" width="45%"/>
+        <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/sepia.png" alt="Sepia Image" width="45%"/>
         <br />
         <span>Sepia Mode</span>
     </div>
@@ -53,7 +53,7 @@ This problem set is part of CS50's Introduction to Computer Science course [CS50
         <span>Original Image</span>
     </div>
     <div style="text-align: center; margin: 10px;">
-        <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/reflect.bmp" alt="Reflect Image" width="45%"/>
+        <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/reflect.png" alt="Reflect Image" width="45%"/>
         <br />
         <span>Reflect Mode</span>
     </div>
@@ -69,7 +69,7 @@ This problem set is part of CS50's Introduction to Computer Science course [CS50
         <span>Original Image</span>
     </div>
     <div style="text-align: center; margin: 10px;">
-        <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/blur.bmp" alt="Blur Image" width="45%"/>
+        <img src="https://github.com/miro789/Image-Filtering/blob/main/outputs/blur.png" alt="Blur Image" width="45%"/>
         <br />
         <span>Blur Mode</span>
     </div>
